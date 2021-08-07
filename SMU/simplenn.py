@@ -1,3 +1,4 @@
+#  https://iamtrask.github.io/2015/07/12/basic-python-network/
 import torch
 import math
 
