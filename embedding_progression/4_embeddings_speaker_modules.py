@@ -1,3 +1,6 @@
+#  https://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html
+#  Moderately modified from above
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
